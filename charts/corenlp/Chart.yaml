@@ -1,0 +1,6 @@
+apiVersion: v1
+appVersion: "1.0"
+description: CoreNLP是斯坦福大学用于自然语言处理(NLP)的一个工具，功能强大。可以实现分词、词性标注(POS)、实体识别(NER)、情感分析等等。
+name: corenlp
+icon: http://sergey-tihon.github.io/Stanford.NLP.NET/images/logo.jpg
+version: 0.3.2

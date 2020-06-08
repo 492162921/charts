@@ -1,0 +1,6 @@
+apiVersion: v1
+appVersion: "1.0"
+description: PostgreSQL是一种特性非常齐全的自由软件的对象-关系型数据库管理系统, 支持大部分的SQL标准并且提供了很多其他现代特性，如复杂查询、外键、触发器、视图、事务完整性、多版本并发控制等。同样，PostgreSQL也可以用许多方法扩展，例如通过增加新的数据类型、函数、操作符、聚集函数、索引方法、过程语言等。另外，因为许可证的灵活，任何人都可以以任何目的免费使用、修改和分发PostgreSQL。
+name: postgresql
+icon: https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike150%2C5%2C5%2C150%2C50/sign=f04a3f9453df8db1a8237436684ab631/9e3df8dcd100baa1613b79b74a10b912c8fc2ea2.jpg
+version: 0.3.2

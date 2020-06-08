@@ -1,0 +1,6 @@
+apiVersion: v1
+appVersion: "1.0"
+description: fastai 库使用最佳的现代最佳实践实践过程使得神经网络训练更加快速准确。它基于对fast.ai进行的深度学习最佳实践的研究,包括对视觉、文本、表格和 collab(协作筛选)模型的"开箱即用"支持。
+name: fastai
+icon: https://assets-global.website-files.com/5b99074771b614b95719feba/5cc404c6dca8016ed302bf1a_5cb443442da2ad3f155b355f_Fastai_logo.png
+version: 0.3.2

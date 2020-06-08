@@ -1,0 +1,6 @@
+apiVersion: v1
+appVersion: "1.0"
+description: Keras是一个由Python编写的开源人工神经网络库，可以作为Tensorflow、Microsoft-CNTK和Theano的高阶应用程序接口，进行深度学习模型的设计、调试、评估、应用和可视化。
+name: keras
+icon: https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png
+version: 0.3.2

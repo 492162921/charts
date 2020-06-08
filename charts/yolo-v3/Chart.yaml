@@ -1,0 +1,6 @@
+apiVersion: v1
+appVersion: "1.0"
+description: YOLO是Joseph Redmon和Ali Farhadi等人于2015年提出的基于单个神经网络的目标检测系统。在2017年CVPR上，Joseph Redmon和Ali Farhadi又发表了 YOLO 2。而 YOLOv3 进一步加强了 YOLO 的速度和准确性。此外,只需更改模型大小,即可轻松权衡速度和准确性,无需重新训练!
+name: yolo-v3
+icon: https://pjreddie.com/media/image/yologo_2.png
+version: 0.3.2

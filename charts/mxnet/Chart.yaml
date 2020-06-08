@@ -1,0 +1,6 @@
+apiVersion: v1
+appVersion: "1.0"
+description: Apache MXNet（孵化）是一个深度学习框架，旨在提高效率和灵活性。它允许您混合符号和命令式编程，以最大限度地提高效率和生产力。MXNet的核心是一个动态依赖调度程序，可以动态地自动并行化符号和命令操作。最重要的图形优化层使符号执行更快，内存效率更高。MXNet便携且轻巧，可有效扩展到多个GPU和多台机器。
+name: mxnet
+icon: https://user-images.githubusercontent.com/591887/30987393-ba66e610-a44b-11e7-8226-da1711dcbdc5.jpg
+version: 0.3.2

@@ -1,0 +1,6 @@
+apiVersion: v1
+appVersion: "1.0"
+description: TensorFlow是一个采用数据流图，用于数值计算的开源软件库。节点在图中表示数学操作，图中的线则表示在节点间相互联系的多维数据数组，即张量。它灵活的架构让你可以在多种平台上展开计算，例如台式计算机中的一个或多个CPU或GPU，服务器，移动设备等等。
+name: tensorflow
+icon: https://cn.bing.com/th?id=OIP.qDHZwNI-q0pGv6qGKaqvzAHaH7&pid=Api&rs=1
+version: 0.3.7

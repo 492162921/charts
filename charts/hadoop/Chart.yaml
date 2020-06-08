@@ -1,0 +1,6 @@
+apiVersion: v1
+appVersion: "1.0"
+description: Hadoop是一个由Apache基金会所开发的分布式系统基础架构。它实现了一个分布式文件系统（Hadoop Distributed File System），简称HDFS。HDFS有高容错性的特点，并且设计用来部署在低廉的（low-cost）硬件上；而且它提供高吞吐量（high throughput）来访问应用程序的数据，适合那些有着超大数据集（large data set）的应用程序。HDFS放宽了（relax）POSIX的要求，可以以流的形式访问（streaming access）文件系统中的数据。
+name: hadoop
+icon: http://hadoop.apache.org/images/hadoop-logo.jpg
+version: 0.3.3
